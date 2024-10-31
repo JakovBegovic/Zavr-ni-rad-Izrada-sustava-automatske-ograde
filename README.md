@@ -1,7 +1,8 @@
 # Završni rad: Izrada sustava automatske ograde
 Završni rad studenta Jakova Begovića izrađen na Fakultetu organizacije i informatike u Varaždinu.
 <br><br>
-Rad opisuje ispunjenje 7 korisničkih zahtjeva kroz izradu elektroničke šeme, računalnog programa za ESP32 mikrokontroler i mobilne aplikacije za Android mobilni uređaj.
+Rad opisuje ispunjenje 7 korisničkih zahtjeva kroz izradu [elektroničke šeme](https://github.com/JakovBegovic/Zavrsni-rad-Izrada-sustava-automatske-ograde/blob/f0504f157ec1bfaa34063289cfe9e16f4040d837/Elektroni%C4%8Dka%20%C5%A1ema.pdf), [računalnog programa](https://github.com/JakovBegovic/Zavrsni-rad-Izrada-sustava-automatske-ograde/tree/f0504f157ec1bfaa34063289cfe9e16f4040d837/Kod%20mikrokontrolera) za ESP32 mikrokontroler i [mobilne aplikacije]() za Android mobilni uređaj.
+Računalni program Android uređaja temeljen je na programu razvijenom od strane Chee Yi Onga za blog objavljen na Punch Trough Internetskoj stranici.
 <br><br>
 Za videozapis koji prikazuje rad sustava me kontaktirajte.
 <br><br>
