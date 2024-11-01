@@ -2,7 +2,7 @@
 Završni rad studenta Jakova Begovića izrađen na Fakultetu organizacije i informatike u Varaždinu.
 <br><br>
 Rad opisuje ispunjenje 7 korisničkih zahtjeva kroz izradu [elektroničke šeme](https://github.com/JakovBegovic/Zavrsni-rad-Izrada-sustava-automatske-ograde/blob/f0504f157ec1bfaa34063289cfe9e16f4040d837/Elektroni%C4%8Dka%20%C5%A1ema.pdf), [računalnog programa](https://github.com/JakovBegovic/Zavrsni-rad-Izrada-sustava-automatske-ograde/tree/f0504f157ec1bfaa34063289cfe9e16f4040d837/Kod%20mikrokontrolera) za ESP32 mikrokontroler i [mobilne aplikacije](https://github.com/JakovBegovic/Zavrsni-rad-Izrada-sustava-automatske-ograde/tree/10d7aef32c95083175669a4152b2c330000afabd/Kod%20Androida) za Android mobilni uređaj.
-Računalni program Android uređaja temeljen je na programu razvijenom od strane Chee Yi Onga za blog objavljen na Punch Trough [Internetskoj stranici](https://punchthrough.com/android-ble-guide/). Samim time, dijelove koda mobilne aplikacije ovog rada štiti [Apache 2.0]() licenca.
+Računalni program Android uređaja temeljen je na programu razvijenom od strane Chee Yi Onga za blog objavljen na Punch Trough [Internetskoj stranici](https://punchthrough.com/android-ble-guide/). Samim time, dijelove koda mobilne aplikacije ovog rada štiti [Apache 2.0](https://github.com/JakovBegovic/Zavrsni-rad-Izrada-sustava-automatske-ograde/blob/1781841e6dc54f3a6b024e0f208bfd7923e00120/Kod%20Androida/LICENSE) licenca.
 <br><br>
 Za videozapis koji prikazuje rad sustava me kontaktirajte.
 <br><br>
